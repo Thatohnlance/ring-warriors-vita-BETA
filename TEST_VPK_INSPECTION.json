@@ -1,0 +1,15 @@
+{
+  "uploaded_vpk": "vita_wrestling_prototype.vpk",
+  "archive_type": "ZIP-compatible PS Vita VPK package",
+  "entries": [
+    {
+      "path": "sce_sys/param.sfo",
+      "bytes": 912
+    },
+    {
+      "path": "eboot.bin",
+      "bytes": 18215
+    }
+  ],
+  "finding": "Package contains only sce_sys/param.sfo and eboot.bin; no original source code or assets."
+}
